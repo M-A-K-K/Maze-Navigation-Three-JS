@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Ford Transit
+* source:	https://sketchfab.com/3d-models/old-ford-transit-110acd7e501a41a5b99a0fef626e090b
+* author:	Ashkelon (https://sketchfab.com/Ashkelon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Ford Transit" (https://sketchfab.com/3d-models/old-ford-transit-110acd7e501a41a5b99a0fef626e090b) by Ashkelon (https://sketchfab.com/Ashkelon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
